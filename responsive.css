@@ -1,0 +1,22 @@
+@media(max-width:980px) {
+  .challenge{
+  }
+  .cards{
+    display: flex;
+  	flex-direction: column;
+    width: 310px;
+    margin: 0 auto;
+  }
+  .card{
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .card-center{
+    width: 100%;
+    margin-bottom: 30px;
+    margin-left: 0;
+  }
+  .challenge-btn{
+    display: inline-block;
+  }
+}
